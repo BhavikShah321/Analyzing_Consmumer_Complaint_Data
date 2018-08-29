@@ -2,7 +2,7 @@
 This is my first Data Analytics project. I will be answering various questions of interest in my analysis of the Consumer Complaints data. Thank you to the Consumer Financial Protection Bureau for making this data free to the public. 
 
 The questions I will be answering are:
--  Which company receives the most complaints, and how often did that company respond in a timely manner? How often did the consumer dispute the response?
+-  which company receives the most complaints and how many complaints does that company receive?
 -  Which company received the most complaints from each state/territory and how many complaints did they receive?
 -  Which company from the Mortgage product faced the most complaints, and how many complaints did they face?
 -  Which state did the most student loans complaints come from?
