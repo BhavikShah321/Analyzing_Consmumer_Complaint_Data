@@ -1,4 +1,4 @@
-# Analyzing_Consmumer_Complaint_Data
+# Analyzing_Consumer_Complaint_Data
 This is my first Data Analytics project. I will be answering various questions of interest in my analysis of the Consumer Complaints data. Thank you to the Consumer Financial Protection Bureau for making this data free to the public. 
 
 The questions I will be answering are:
